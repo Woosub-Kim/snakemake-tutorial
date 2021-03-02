@@ -1,0 +1,4 @@
+Building DAG of jobs...
+MissingInputException in line 1 of /Users/woosubkim/Documents/workspace/snakemake-tutorial/Snakefile:
+Missing input files for rule samtools_index:
+sorted_reads/A.bam

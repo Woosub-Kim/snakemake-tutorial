@@ -1,0 +1,2 @@
+SyntaxError in line 2 of /Users/woosubkim/Documents/workspace/snakemake-tutorial/Snakefile:
+Unexpected keyword SAMPLES in rule definition (Snakefile, line 2)

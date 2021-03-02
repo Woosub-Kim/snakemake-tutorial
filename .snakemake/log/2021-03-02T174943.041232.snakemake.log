@@ -1,0 +1,2 @@
+SyntaxError in line 3 of /Users/woosubkim/Documents/workspace/snakemake-tutorial/Snakefile:
+Command must be given as string after the shell keyword. (Snakefile, line 3)

@@ -1,0 +1,3 @@
+NameError in line 6 of /Users/woosubkim/Documents/workspace/snakemake-tutorial/Snakefile:
+name 'Fasta' is not defined
+  File "/Users/woosubkim/Documents/workspace/snakemake-tutorial/Snakefile", line 6, in <module>
